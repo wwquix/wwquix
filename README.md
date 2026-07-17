@@ -1,79 +1,51 @@
-# Yuri — Backend Developer in Progress
+# Yuri — a Backend Developer Who Doesn’t Hand-Wave
 
-I am building a practical backend engineering portfolio around **Python**, **Node.js**, APIs, databases, testing, deployment, and automation.
+I’m not a “passionate developer.” I’m the kind of person who reads the entire stack trace before searching for the error.
 
-My current goal is to become ready for **Backend Trainee / Junior**, **QA Automation**, **API Integration**, or **Reporting Automation** roles. I use AI tools to accelerate development, but I focus on understanding the architecture, testing behavior, reading logs, and being able to explain and change the code myself.
+## What I’m Doing
 
-## Target roles
+I’m building a portfolio around Python and Node.js—not because they are trendy, but because they let me explain architecture clearly in an interview instead of hiding behind vague descriptions.
 
-- Python Backend Trainee / Junior Developer
-- Node.js Backend Trainee / Junior Developer
-- QA Automation Trainee with Python
-- API / Integration Support Engineer
-- Junior Data or Reporting Automation Specialist
+I’m not looking for just any job. I’m targeting specific roles:
 
-## Current backend stack
+**Backend Trainee / Junior · QA Automation · API Integration · Reporting Automation**
 
-### Languages and runtimes
+These are areas I have tested in real projects and know I can handle. I did not copy this list from a job posting.
 
-- Python 3
-- JavaScript
-- Node.js
+## A Tech Stack I Can Actually Discuss in an Interview
+
+### Languages and Runtimes
+
+Python 3 · JavaScript · Node.js
 
 ### Backend and APIs
 
-- Express 5
-- REST APIs and JSON contracts
-- Twitch Helix API and EventSub WebSocket
-- OAuth 2.0 authorization flow
-- Server-Sent Events
-- Telegram Bot API
-- Input validation with Zod
+Express 5 · REST APIs and JSON contracts · Twitch Helix API and EventSub WebSocket · OAuth 2.0 · Server-Sent Events · Telegram Bot API · input validation with Zod
 
 ### Data
 
-- SQLite
-- SQL fundamentals
-- Database schemas, relations, transactions, backups, and exports
-- CSV and XLSX data export
+SQLite · SQL · database schemas and relationships · transactions · backups · CSV and XLSX exports
 
-### Testing and code quality
+### Testing and Code Quality
 
-- pytest fundamentals
-- Vitest
-- Supertest
-- ESLint
-- Integration tests with temporary databases
-- GitHub Actions CI
+pytest · Vitest · Supertest · ESLint · integration tests with temporary databases · GitHub Actions CI
 
-### Deployment and operations
+### Deployment and Operations
 
-- Linux VPS
-- SSH
-- Nginx
-- systemd
-- Environment variables and secret management
-- Application logs and basic production diagnostics
-- Git and GitHub
+Linux VPS · SSH · Nginx · systemd · environment variables and secrets kept outside the codebase · logging and basic production diagnostics
 
+## What I’m Working On Now
 
-## What I am working on now
+* Completing CS50P-style exercises so that Python is not just “something I have used,” but something I understand.
+* Studying SQL and PostgreSQL beyond what a single project requires.
+* Rebuilding features in my projects by hand. If AI suggests code, I must be able to explain it as clearly as if I had written it myself.
+* Adding tests before architectural changes, rather than after something breaks.
+* Preparing for practical take-home assignments and real development tasks, not competitive programming.
 
-- Strengthening independent Python fundamentals through CS50P-style exercises
-- Learning SQL and PostgreSQL
-- Rewriting and extending project features without relying on complete AI-generated solutions
-- Adding tests before making larger architecture changes
-- Preparing for trainee-level technical interviews and small test assignments
+## How I Work
 
-## Development principles
-
-- Understand the code before presenting it as a skill
-- Prefer one well-tested project over many unfinished demos
-- Keep secrets outside the repository
-- Document setup, architecture, limitations, and trade-offs
-- Use AI as an assistant for explanation, review, and iteration—not as a substitute for understanding
-- Build projects that can be run, tested, and reviewed by another developer
-
-## Contact
-
-- GitHub: [@wwquix](https://github.com/wwquix)
+* Before presenting code as proof of a skill, I make sure I understand how it works.
+* One complete, tested project is better than five unfinished demos.
+* Secrets stay outside the repository—not inside a `.env` file that I forgot to add to `.gitignore`.
+* I document architecture, constraints, and trade-offs instead of keeping them only in my head.
+* I use AI as a reviewer and a coding partner, not as a replacement for doing the work myself.
