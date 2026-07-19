@@ -1,4 +1,4 @@
-# Yuri — a Backend Developer Who Doesn’t Hand-Wave
+   Backend Developer Who Doesn’t Hand-Wave
 
 I’m not a “passionate developer.” I’m the kind of person who reads the entire stack trace before searching for the error.
 
