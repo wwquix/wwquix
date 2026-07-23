@@ -1,13 +1,10 @@
 <div align="center">
 
 # Yuri · [wwquix](https://github.com/wwquix)
-### Backend Developer Who Doesn't Hand-Wave
 
 </div>
 
-I read the whole stack trace before searching for the error — not chasing trends, just building things I can fully explain.
-
-**Looking for:** Backend Trainee/Junior · QA Automation · API Integration · Reporting Automation
+Backend, Python & Node.js. Targeting: Backend Trainee/Junior · QA Automation · API Integration · Reporting Automation.
 
 ---
 
@@ -23,6 +20,9 @@ I read the whole stack trace before searching for the error — not chasing tren
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -30,18 +30,19 @@ I read the whole stack trace before searching for the error — not chasing tren
 
 | Repo | Stack | What it does |
 |---|---|---|
-| [kbju-tracker-bot](https://github.com/wwquix/kbju-tracker-bot) | Python | Telegram bot for tracking daily nutrition (KБЖУ) |
+| [kbju-tracker-bot](https://github.com/wwquix/kbju-tracker-bot) | Python | Telegram bot for tracking daily nutrition (КБЖУ) |
 | [fenya-stream-lab](https://github.com/wwquix/fenya-stream-lab) | JavaScript | Twitch Helix API + EventSub integration |
 | [morning-brief](https://github.com/wwquix/morning-brief) | Python | Daily dashboard: weather, tasks, cat photos, Telegram notifications |
-| [kuda-postupat](https://github.com/wwquix/kuda-postupat) | Python | _(add a one-line description)_ |
-| [spec](https://github.com/wwquix/spec) | Python | _(add a one-line description)_ |
+| [kuda-postupat](https://github.com/wwquix/kuda-postupat) | Python | _(University pick helper)_ |
+| [spec](https://github.com/wwquix/spec) | Python | _(Job finder)_ |
 
 ---
 
-### ⚙️ How I work
-- One complete, tested project beats five unfinished demos
-- Secrets stay out of the repo, tests come before refactors
-- I use AI as a reviewer, not a replacement — I can explain every line I ship
+### ⚙️ Practices
+
+- Config and secrets kept outside the repo (`.env`, not committed)
+- CI on every project (GitHub Actions)
+- Integration tests run against temporary databases
 
 ---
 
