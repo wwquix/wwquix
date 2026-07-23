@@ -1,51 +1,53 @@
-   Backend Developer Who Doesn’t Hand-Wave
+<div align="center">
 
-I’m not a “passionate developer.” I’m the kind of person who reads the entire stack trace before searching for the error.
+# Yuri · [wwquix](https://github.com/wwquix)
+### Backend Developer Who Doesn't Hand-Wave
 
-## What I’m Doing
+</div>
 
-I’m building a portfolio around Python and Node.js—not because they are trendy, but because they let me explain architecture clearly in an interview instead of hiding behind vague descriptions.
+I read the whole stack trace before searching for the error — not chasing trends, just building things I can fully explain.
 
-I’m not looking for just any job. I’m targeting specific roles:
+**Looking for:** Backend Trainee/Junior · QA Automation · API Integration · Reporting Automation
 
-**Backend Trainee / Junior · QA Automation · API Integration · Reporting Automation**
+---
 
-These are areas I have tested in real projects and know I can handle. I did not copy this list from a job posting.
+### 🛠 Stack
 
-## A Tech Stack I Can Actually Discuss in an Interview
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Languages and Runtimes
+---
 
-Python 3 · JavaScript · Node.js
+### 📌 Projects
 
-### Backend and APIs
+| Repo | Stack | What it does |
+|---|---|---|
+| [kbju-tracker-bot](https://github.com/wwquix/kbju-tracker-bot) | Python | Telegram bot for tracking daily nutrition (KБЖУ) |
+| [fenya-stream-lab](https://github.com/wwquix/fenya-stream-lab) | JavaScript | Twitch Helix API + EventSub integration |
+| [morning-brief](https://github.com/wwquix/morning-brief) | Python | Daily dashboard: weather, tasks, cat photos, Telegram notifications |
+| [kuda-postupat](https://github.com/wwquix/kuda-postupat) | Python | _(add a one-line description)_ |
+| [spec](https://github.com/wwquix/spec) | Python | _(add a one-line description)_ |
 
-Express 5 · REST APIs and JSON contracts · Twitch Helix API and EventSub WebSocket · OAuth 2.0 · Server-Sent Events · Telegram Bot API · input validation with Zod
+---
 
-### Data
+### ⚙️ How I work
+- One complete, tested project beats five unfinished demos
+- Secrets stay out of the repo, tests come before refactors
+- I use AI as a reviewer, not a replacement — I can explain every line I ship
 
-SQLite · SQL · database schemas and relationships · transactions · backups · CSV and XLSX exports
+---
 
-### Testing and Code Quality
+<div align="center">
 
-pytest · Vitest · Supertest · ESLint · integration tests with temporary databases · GitHub Actions CI
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwquix&show_icons=true&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwquix&layout=compact)
 
-### Deployment and Operations
-
-Linux VPS · SSH · Nginx · systemd · environment variables and secrets kept outside the codebase · logging and basic production diagnostics
-
-## What I’m Working On Now
-
-* Completing CS50P-style exercises so that Python is not just “something I have used,” but something I understand.
-* Studying SQL and PostgreSQL beyond what a single project requires.
-* Rebuilding features in my projects by hand. If AI suggests code, I must be able to explain it as clearly as if I had written it myself.
-* Adding tests before architectural changes, rather than after something breaks.
-* Preparing for practical take-home assignments and real development tasks, not competitive programming.
-
-## How I Work
-
-* Before presenting code as proof of a skill, I make sure I understand how it works.
-* One complete, tested project is better than five unfinished demos.
-* Secrets stay outside the repository—not inside a `.env` file that I forgot to add to `.gitignore`.
-* I document architecture, constraints, and trade-offs instead of keeping them only in my head.
-* I use AI as a reviewer and a coding partner, not as a replacement for doing the work myself.
+</div>
