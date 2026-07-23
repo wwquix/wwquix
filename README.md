@@ -30,11 +30,11 @@ Backend, Python & Node.js. Targeting: Backend Trainee/Junior · QA Automation ·
 
 | Repo | Stack | What it does |
 |---|---|---|
-| [kbju-tracker-bot](https://github.com/wwquix/kbju-tracker-bot) | Python | Telegram bot for tracking daily nutrition (КБЖУ) |
+| [kbju-tracker-bot](https://github.com/wwquix/kbju-tracker-bot) | Python | Telegram bot for tracking daily nutrition (Your gym bro) |
 | [fenya-stream-lab](https://github.com/wwquix/fenya-stream-lab) | JavaScript | Twitch Helix API + EventSub integration |
 | [morning-brief](https://github.com/wwquix/morning-brief) | Python | Daily dashboard: weather, tasks, cat photos, Telegram notifications |
-| [kuda-postupat](https://github.com/wwquix/kuda-postupat) | Python | _(University pick helper)_ |
-| [spec](https://github.com/wwquix/spec) | Python | _(Job finder)_ |
+| [kuda-postupat](https://github.com/wwquix/kuda-postupat) | Python | University pick helper|
+| [spec](https://github.com/wwquix/spec) | Python | Job finder |
 
 ---
 
