@@ -48,7 +48,5 @@ Backend, Python & Node.js. Targeting: Backend Trainee/Junior · QA Automation ·
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wwquix&show_icons=true&theme=default&hide_title=true)
-
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wwquix&layout=compact)
 </div>
