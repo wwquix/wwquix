@@ -38,14 +38,6 @@ Backend, Python & Node.js. Targeting: Backend Trainee/Junior · QA Automation ·
 
 ---
 
-### ⚙️ Practices
-
-- Config and secrets kept outside the repo (`.env`, not committed)
-- CI on every project (GitHub Actions)
-- Integration tests run against temporary databases
-
----
-
 <div align="center">
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wwquix&layout=compact)
